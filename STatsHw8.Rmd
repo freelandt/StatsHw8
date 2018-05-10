@@ -1,0 +1,85 @@
+---
+title: "StatsHw8"
+author: "Trevor Freeland"
+date: "May 10, 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F, comment = NA)
+```
+
+```{r}
+contraception <- read.csv("http://math.carleton.edu/Chihara/Stats345/Contraception.csv")
+campuscrime <- read.csv("http://math.carleton.edu/Chihara/Stats345/CampusCrime.csv")
+suicides <- read.csv("http://math.carleton.edu/Chihara/Stats345/Suicides.csv")
+grouseticks <- read.csv("http://math.carleton.edu/Chihara/Stats345/GrouseTicks.csv")
+```
+
+
+##64
+
+###(A)
+
+###(B)
+
+###(C)
+
+##65
+
+###(A)
+
+###(B)
+
+###(C)
+
+###(D)
+
+##66
+
+###(A)
+
+###(B)
+
+###(C)
+
+###(D)
+
+##67
+
+###(A)
+
+###(B)
+
+###(C)
+
+###(D)
+
+###(E)
+
+###(F)
+
+##68
+
+###(A)
+
+###(B)
+
+###(C)
+
+##69
+
+###(A)
+
+###(B)
+
+###(C)
+
+###(D)
+
+##70
+
+Probably be easier to do number 70 by hand and hand it in on a seperate piece of paper. We shall see how tired I am of this crap. 
+###(A)
+
+###(B)
